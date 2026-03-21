@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-20 18:36:50,http://125.43.250.98:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-03-21 18:36:26,http://125.43.250.98:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://125.43.250.98:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17,7 +17,7 @@ CCTV-11,http://125.43.250.98:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&au
 CCTV-12,http://125.43.250.98:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://119.190.201.210:85/tsfile/live/33/2008_1.m3u8?key=txiptv
 CCTV-14,http://125.43.250.98:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://125.43.250.98:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://171.12.60.21:9003/hls/15/index.m3u8
 CCTV-16,http://124.93.18.239:9003/hls/16/index.m3u8
 CCTV-17,http://124.93.18.239:9003/hls/17/index.m3u8
 CHC高清电影,http://42.227.89.129:9003/hls/59/index.m3u8
