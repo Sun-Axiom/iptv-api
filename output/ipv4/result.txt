@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-24 18:35:09,http://42.226.227.52:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-03-25 18:34:45,http://42.226.227.52:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://42.226.227.52:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://119.190.201.210:85/tsfile/live/27/2002_1.m3u8?key=txiptv
 CCTV-3,http://125.43.246.32:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://42.226.227.52:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://119.190.201.210:85/tsfile/live/29/2004_1.m3u8?key=txiptv
 CCTV-5,http://42.226.227.52:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://113.241.133.223:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://42.226.227.52:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -15,7 +15,7 @@ CCTV-9,http://42.226.227.52:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&aut
 CCTV-10,http://42.226.227.52:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://42.226.227.52:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://42.226.227.52:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://42.226.227.52:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://119.190.201.210:85/tsfile/live/33/2008_1.m3u8?key=txiptv
 CCTV-14,http://42.226.227.52:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://42.226.227.52:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://124.93.18.239:9003/hls/16/index.m3u8
